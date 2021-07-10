@@ -9,7 +9,7 @@ def baka():
 
 def debu():
     a = "debu desu"
-    return b
+    return a
 
 if __name__ == "__main__":
     main()
